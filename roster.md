@@ -38,6 +38,6 @@
 |0030  |[林](markdown/0030.md)    |   |
 |1577  |[温](markdown/1577.md)    |   |
 |0086  |[Aman](markdown/自我介绍.md)  |   |
-|cc07  |[马} (mini.html)    |
+|cc07  |[马](mini.html)    |   |
 |0529  |[刘璐](markdown/刘璐.md)    |   |
 |2047  |[陈](2047.md)    |   |
